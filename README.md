@@ -1,5 +1,5 @@
 ###  HEY &#128075;
-I am Soujanya &#x1F603;
+### I am Soujanya &#x1F603;
 
 * a student &#128104;&#8205;&#127891;
 * a learner &#128218;
@@ -33,9 +33,17 @@ How to connect with me?
 
 [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<center>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark)](https://git.io/streak-stats)
 
+</center>
+
+<center>
+
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&langs_count=5&theme=tokyonight)]()
+
+</center>
 
 <!-- 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true)]() -->
