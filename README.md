@@ -33,17 +33,17 @@ How to connect with me?
 
 [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<center>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark)](https://git.io/streak-stats)
 
-</center>
 
-<center>
 
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&langs_count=5&theme=tokyonight)]()
 
-</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true)]() -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark)]((https://github.com/ryo-ma/github-profile-trophy)) -->
+<!-- [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&langs_count=5&theme=tokyonight)]() -->
