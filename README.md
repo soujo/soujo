@@ -1,7 +1,7 @@
 
 ![header](https://raw.githubusercontent.com/soujo/soujo/master/header.png)
 
-<br>
+<!-- <br> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark" align="right" height="180"/>
 
