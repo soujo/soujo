@@ -1,9 +1,14 @@
 
 ![header](https://raw.githubusercontent.com/soujo/soujo/master/header.png)
 
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark" align="right" height="180"/>
+
+### Who am I ?
+
 * a student &#128104;&#8205;&#127891;
 * a learner &#128218;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark" align="right" height="180"/>
 * a web developer &#128187;
 * a designer &#9999;&#65039;
 
