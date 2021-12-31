@@ -3,7 +3,7 @@
 
 <!-- <br> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark" align="right" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
 
 ### Who am I ?
 
@@ -15,7 +15,7 @@
 ### What i am currently focusing on ?
 
 * Data Structures and Algorithms &#128549;
-* Competitive Coding ( CodeChef ) &#128640;
+* Competitive Coding &#128640;
 * MERN &#10084;&#65039;
 * Maintaining Github Streaks &#128517;
   
