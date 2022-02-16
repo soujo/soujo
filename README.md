@@ -10,7 +10,7 @@
 * a web developer &#128187;
 * a designer &#9999;&#65039;
 
-<img style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
+<img style="margin-top:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
 
 ### What i am currently focusing on ?
 
