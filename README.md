@@ -1,9 +1,7 @@
 
 ![header](https://raw.githubusercontent.com/soujo/soujo/master/header.png)
 
-<!-- <br> -->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true" align="right" height="180" width="62%" />
 
 ### Who am I ?
 
@@ -11,6 +9,8 @@
 * a learner &#128218;
 * a web developer &#128187;
 * a designer &#9999;&#65039;
+
+<img style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
 
 ### What i am currently focusing on ?
 
@@ -54,18 +54,12 @@
 
 [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
+<!-- ### Gtihub Trophies :
+<p align="center" style="margin-left:110px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" height="250" />
+</p> -->
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark" height="230" />
 </p>
 
-
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true)]() -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark)]((https://github.com/ryo-ma/github-profile-trophy)) -->
-
-
-<!-- ![views](https://komarev.com/ghpvc/?username=soujo&color=green) -->
