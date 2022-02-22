@@ -10,8 +10,6 @@
 * a web developer &#128187;
 * a designer &#9999;&#65039;
 
-<img style="margin-top:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
-
 ### What i am currently focusing on ?
 
 * Data Structures and Algorithms &#128549;
@@ -19,12 +17,16 @@
 * MERN &#10084;&#65039;
 * Maintaining Github Streaks &#128517;
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
+
 ### Fun Fact?
 
 * I watch anime too &#128513;
 * I love fiction books &#128216;
 * I love space related talks &#127756;
 * I do watercolour paintings &#127912;
+
+<br>
 
 ### How to connect with me?
 <a href="mailto:hazrasoujanya@gmail.com">
