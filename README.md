@@ -56,10 +56,11 @@
 
 [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ### Gtihub Trophies :
-<p align="center" style="margin-left:110px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" height="250" />
-</p> -->
+### Gtihub Trophies :
+
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark" height="150" />
+</p>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark" height="230" />
