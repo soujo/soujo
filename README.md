@@ -65,3 +65,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark" height="230" />
 </p>
 
+### Watch my contribution graph get eaten by the snake🐍
+<br>
+
+![snake-gif](https://github.com/soujo/soujo/blob/output/github-contribution-grid-snake.gif)
