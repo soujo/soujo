@@ -1,7 +1,7 @@
 
 ![header](https://raw.githubusercontent.com/soujo/soujo/master/header.png)
 
-<img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true" align="right" height="180" width="62%" />
+<img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
 
 ### Who am I ?
 
@@ -16,8 +16,18 @@
 * Competitive Coding &#128640;
 * MERN &#10084;&#65039;
 * Maintaining Github Streaks &#128517;
-  
+* 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
+
+### Open source contribution ?
+
+* [JWOC '22](https://jwoc.tech/)
+    - Secured 19th position on the leaderboard 🎊
+    - Contributed to 5 projects 😀
+    - 18 PRs got merged ✅
+* [GSSOC '22](https://gssoc.girlscript.tech/) 
+    - Ongoing Event
+
 
 ### Fun Fact?
 
