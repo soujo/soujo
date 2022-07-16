@@ -25,8 +25,6 @@
     - Secured 19th position on the leaderboard 🎊
     - Contributed to 5 projects 😀
     - 18 PRs got merged ✅
-* [GSSOC '22](https://gssoc.girlscript.tech/) 
-    - Ongoing Event
 
 
 ### Fun Fact?
@@ -69,7 +67,7 @@
 ### Gtihub Trophies :
 
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark" height="150" />
+    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=-C" height="150"/>
 </p>
 
 <p align="center">
