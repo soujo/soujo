@@ -26,6 +26,11 @@
     - Contributed to 5 projects 😀
     - 18 PRs got merged ✅
 
+* [KSOC '22](https://dscksoc.herokuapp.com/)
+    - Mentored 4 projects 😀
+    - Helped 15+ contributers with issues 👥
+    - Merged 20+ PRs ✅
+
 
 ### Fun Fact?
 
