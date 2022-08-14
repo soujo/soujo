@@ -13,7 +13,7 @@
 ### What i am currently focusing on ?
 
 * Data Structures and Algorithms &#128549;
-* Competitive Coding &#128640;
+* Open Source &#128640;
 * MERN &#10084;&#65039;
 * Maintaining Github Streaks &#128517;
   
@@ -31,6 +31,10 @@
     - Helped 15+ contributers with issues 👥
     - Merged 20+ PRs ✅
 
+### Hackathons ?
+
+* [SIH '22](https://www.sih.gov.in/)
+    - Our team got selected for the finals under the problem statement - AK1212
 
 ### Fun Fact?
 
@@ -69,10 +73,10 @@
 
 [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Gtihub Trophies :
+### Github Trophies :
 
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=-C" height="150"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=-C,-B" height="230"/>
 </p>
 
 <p align="center">
