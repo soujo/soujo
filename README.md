@@ -1,14 +1,16 @@
 
-![header](https://raw.githubusercontent.com/soujo/soujo/master/header.png)
+![header](https://raw.githubusercontent.com/soujo/soujo/master/banner.png)
+<!-- ![header](banner.png) -->
 
 <img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
 
 ### Who am I ?
 
-* a student &#128104;&#8205;&#127891;
-* a learner &#128218;
-* a web developer &#128187;
-* a designer &#9999;&#65039;
+* Learner &#128218;
+* Pre-Final Year Student @KGEC &#128104;&#8205;&#127891;
+* Backend Lead @[GDSC-KGEC](https://www.linkedin.com/company/dsckgec/) &#128187;
+* Web Developer @[KGEC-RS](https://www.linkedin.com/company/kgecrs/)
+<!-- * a designer &#9999;&#65039; -->
 
 ### What i am currently focusing on ?
 
@@ -17,7 +19,7 @@
 * MERN &#10084;&#65039;
 * Maintaining Github Streaks &#128517;
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="200"/>
 
 ### Open source contribution ?
 
@@ -34,7 +36,10 @@
 ### Hackathons ?
 
 * [SIH '22](https://www.sih.gov.in/)
-    - Our team got selected for the finals under the problem statement - AK1212
+    - Our team "Naive Baes" got selected for the finals under the problem statement - AK1212
+* [Error 404 ](https://404error.club/)
+    - A hackathon hosted by Micro with over 1000+ students from across the world for 72 hours of creation, innovation & fun.
+    - Got selected as a mentor.
 
 ### Fun Fact?
 
