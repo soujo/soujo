@@ -1,6 +1,6 @@
 
-![header](https://raw.githubusercontent.com/soujo/soujo/master/banner.png)
-<!-- ![header](banner.png) -->
+![header](https://raw.githubusercontent.com/soujo/soujo/master/github-header.png)
+<!-- ![header](github-header.png) -->
 
 <img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
 
@@ -36,10 +36,14 @@
 ### Hackathons ?
 
 * [SIH '22](https://www.sih.gov.in/)
-    - Our team "Naive Baes" got selected for the finals under the problem statement - AK1212
+  
+    - It is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving
+    - Our team "**Naive Baes**" got selected for the finals under the problem statement - AK1212 🎊
+  
 * [Error 404 ](https://404error.club/)
-    - A hackathon hosted by Micro with over 1000+ students from across the world for 72 hours of creation, innovation & fun.
-    - Got selected as a mentor.
+    - A hackathon hosted by [Micro](https://www.getmicro.co/) with over 1000+ students from across the world for 72 hours of creation, innovation & fun.
+    - Mentored 5 teams 😀
+    - Guided 10+ participants to make their project better 👥
 
 ### Fun Fact?
 
