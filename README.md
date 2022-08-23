@@ -42,8 +42,8 @@
   
 * [Error 404 ](https://404error.club/)
     - A hackathon hosted by [Micro](https://www.getmicro.co/) with over 1000+ students from across the world for 72 hours of creation, innovation & fun.
-    - Mentored 5 teams 😀
-    - Guided 10+ participants to make their project better 👥
+    - Mentored 8 teams and evaluated their projects 😀
+    - Guided 20+ participants to make their project better 👥
 
 ### Fun Fact?
 
