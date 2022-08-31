@@ -2,7 +2,9 @@
 ![header](https://raw.githubusercontent.com/soujo/soujo/master/github-header.png)
 <!-- ![header](github-header.png) -->
 
-<img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" /> -->
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/soujo?cardType=level&theme=github-dark&Border=DDDDDD" align="right" height="180" width="62%" />
 
 ### Who am I ?
 
