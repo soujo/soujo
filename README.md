@@ -1,10 +1,9 @@
-
-![header](https://raw.githubusercontent.com/soujo/soujo/master/github-header.png)
+![header](./header.png)
 <!-- ![header](github-header.png) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" /> -->
+<img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/soujo?cardType=level&theme=github-dark&Border=DDDDDD" align="right" height="180" width="62%" />
+<!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/soujo?cardType=level&theme=github-dark&Border=DDDDDD" align="right" height="180" width="62%" /> -->
 
 ### Who am I ?
 
@@ -82,10 +81,13 @@
 
 
 
-[![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Contribution graph](https://activity-graph.herokuapp.com/graph?username=soujo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=soujo&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Github Trophies :
-
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=-C,-B" height="230"/>
 </p>
@@ -94,7 +96,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark" height="230" />
 </p>
 
-### Watch my contribution graph get eaten by the snake🐍
+<!-- ### Watch my contribution graph get eaten by the snake🐍
 <br>
 
-![snake-gif](https://github.com/soujo/soujo/blob/output/github-contribution-grid-snake.gif)
+![snake-gif](https://github.com/soujo/soujo/blob/output/github-contribution-grid-snake.gif) -->
