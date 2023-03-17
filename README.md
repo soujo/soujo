@@ -1,5 +1,4 @@
-![header](./header.png)
-<!-- ![header](github-header.png) -->
+<!-- ![header](./header.png) -->
 
 <img src="https://github-readme-stats.vercel.app/api/?username=soujo&count_private=true&theme=tokyonight&showicons=true&hide=stars&include_all_commits=true&show_icons=true" align="right" height="180" width="62%" />
 
