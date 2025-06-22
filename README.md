@@ -9,11 +9,11 @@ analysis of neurological conditions.
 * Ask me about ML, xAI.
 
 ### Fun Fact
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="200"/>
 
 * I watch anime too &#128513;
 * I love fiction books &#128216;
 * I love space related talks &#127756;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="200"/>
 * I do watercolour paintings &#127912;
 * I recently started digital art 😀
 
@@ -40,7 +40,7 @@ analysis of neurological conditions.
 
 <br>
 <hr>
-<br>
+<!-- <br> -->
 
 <!-- ### Github Trophies : -->
 <p>
