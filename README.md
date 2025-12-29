@@ -1,20 +1,19 @@
 
 ### About
-<img src="https://github-readme-stats.vercel.app/api?username=soujo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" height="200"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=soujo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" height="200"/> -->
 
-* I’m currently pursuing M.Tech at IIT Kharagpur.
-* I’m currently working on EEG-based \
-analysis of neurological conditions.
-* I’m looking to collaborate on AI in Healthcare.
-* Ask me about ML, xAI.
+* I’m currently pursuing M.Tech at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+* I’m currently working on EEG-based analysis of neurological conditions.
+* I’m looking to collaborate on "AI in Healthcare".
+* Ask me about ML and Explainability.
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="200"/> -->
 
 ### Fun Fact
 
 * I watch anime too &#128513;
 * I love fiction books &#128216;
 * I love space related talks &#127756;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujo&layout=compact&theme=dark&langs_count=10" align="right" height="200"/>
-
 * I do watercolour paintings &#127912;
 * I recently started digital art 😀
 
@@ -33,6 +32,9 @@ analysis of neurological conditions.
 <a href="https://discordapp.com/users/791383804354887741">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="https://scholar.google.com/citations?user=6XN-V18AAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white">
+</a>
 
 <br>
 
@@ -44,10 +46,10 @@ analysis of neurological conditions.
 <!-- <br> -->
 
 <!-- ### Github Trophies : -->
-<p>
+<!-- <p>
     <img src="https://github-profile-trophy.vercel.app/?username=soujo&theme=onedark&rank=-C,-B" height="230"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujo&theme=dark" height="230" />
-</p>
+</p> -->
