@@ -2,8 +2,9 @@
 ### About
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=soujo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" height="200"/> -->
 
-* I’m currently pursuing M.Tech at [IIT Kharagpur](https://www.iitkgp.ac.in/).
-* I’m currently working on EEG-based analysis of neurological conditions.
+* I’m currently pursuing PhD at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+* My research focuses on modelling brain connectivity as structured non-Euclidean data.
+* I work with graph neural networks, Riemannian geometry, and manifold learning.
 * I’m looking to collaborate on "AI in Healthcare".
 * Ask me about ML and Explainability.
 
